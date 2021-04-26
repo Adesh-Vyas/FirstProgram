@@ -1,3 +1,4 @@
+//Adding Documents for GIT
 import java.util.Scanner;
 
 class MovieDetails
